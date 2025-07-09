@@ -1,0 +1,5 @@
+Sparse Methods: self_post
+Learning Rate: 0.01
+N:M Sparsity: 2:4
+Test Loss: 0.316586
+Test Accuracy: 91.08%

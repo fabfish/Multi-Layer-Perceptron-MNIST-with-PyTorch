@@ -1,0 +1,5 @@
+Sparse Methods: post
+Learning Rate: 0.01
+N:M Sparsity: 2:4
+Test Loss: 0.315494
+Test Accuracy: 91.22%
